@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Soviet",
+  "license": "CC0 - No Copyright"
   "dependencies": {
     "node-ssh": "^13.0.0",
     "prompt": "^1.3.0",
