@@ -1,8 +1,7 @@
 {
   "name": "secureShell",
   "version": "1.0.0",
-  "description": "The scripts promts for host, username and password. Based on the entered data it connects to the host shell using ssh protocol. This approach hides from the process list the session 
-to the  host",
+  "description": "The scripts promts for host, username and password. Based on the entered data it connects to the host shell using ssh protocol. This approach hides from the process list the session to the  host",
   "main": "secureShell.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
